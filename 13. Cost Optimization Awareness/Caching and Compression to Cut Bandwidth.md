@@ -164,7 +164,3 @@ Result:
 - minimal origin load
 
 ---
-
-## Vary Header (Critical)
-
-Use:
